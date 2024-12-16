@@ -128,7 +128,7 @@ main {
 }
 #con1 {
     padding: 2em;
-    background-image: url('img/logo/div-background.jpg');
+    background-image: url('div-background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     border: 3px solid #00c3ff;
